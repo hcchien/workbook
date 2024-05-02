@@ -1,0 +1,105 @@
+/*
+# $File: //depot/workbook/html/ebx.css $ $Author: autrijus $
+# $Revision: #1 $ $Change: 1 $ $DateTime: 2002/06/11 17:35:12 $
+*/
+
+body {
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+pre {
+    font-family: fixedsys, fixed, courier;
+    line-height: 1;
+}
+
+div p {
+    padding: 0;
+    margin: 8;
+    line-height: 1;
+}
+
+div.demo {
+    padding: 10;
+    background: black;
+    color: white;
+    font-family: fixed, courier;
+}
+
+code {
+    line-height: 1;
+    font-family: fixed, courier;
+}
+    
+a:link {
+    text-decoration: none;
+    color: #000080;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000080;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+div a:link {
+    text-decoration: none;
+    color: white;
+}
+
+div a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    font-size: 20px;
+    background: #c9c9e9;
+}
+
+h2 {
+    font-size: 20px;
+    background: #c9c9e9;
+}
+
+h3 {
+    font-size: 20px;
+    background: #c9c9e9;
+}
+
+input {
+    height: 22px;
+    font-size: 12px;
+    font-family: arial, sans serif;
+}
+
+table.nav {
+    background: #c9c9e9;
+}
+
+td.nav {
+    font-size: 14px;
+}
+
+dl {
+    line-height: 1.4;
+    font-size: 14px;
+}
+
+dt {
+    line-height: 1.4;
+    font-size: 14px;
+}
+
+ul {
+    font-size: 14px;
+    list-style-type: disc;
+}
+
+ol {
+    font-size: 14px;
+}

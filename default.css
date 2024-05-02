@@ -1,0 +1,21 @@
+/* Style Sheet for Project Melix / OurNet */
+
+BODY { font-family: arial, sans-serif; font-size: 16px }
+CODE { font-family: fixedsys, fixed; background: black }
+PRE { font-family: fixedsys, fixed; background: black }
+TABLE.nav { color: #e9e9f9 }
+B { background: #101020 }
+A.title {
+    font-weight: bold;
+    color: #000070;
+}
+A { text-decoration: none; }
+H1 { color: #e9e9f9; font-size: 24px }
+H2 { color: #f9f950; font-size: 20px; background: #202040; }
+H3 { font-size: 20px; text-decoration: underline}
+INPUT {
+    height: 22px;
+    font-size: 12px;
+    font-family: arial, sans serif;
+}
+
